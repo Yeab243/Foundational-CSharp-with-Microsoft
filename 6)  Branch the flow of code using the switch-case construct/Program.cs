@@ -55,4 +55,5 @@ switch (productDetails[2])
         break;
 }
 
-Console.WriteLine($"Product: {itemSize} {itemColor} {itemType}");
+//Product: Large Maroon Sweatshirt
+Console.WriteLine($"Product: {itemSize} {itemColor} {itemType}"); 
